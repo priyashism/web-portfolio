@@ -10,10 +10,6 @@ h1{
     text-align: justify;
 }
 
-section{
-    height: 500px;
-
-}
 
 button{
     color: blue;
@@ -34,7 +30,7 @@ button{
 }
 
 .half-width img{
-    width: 95%;
+    width: 100%;
 }
 
 .link-button{
@@ -54,7 +50,7 @@ button{
 .single-battle{
     box-shadow: 10px 20px 40px grey;
     border-radius: 5px;
-    height: 60%;
+   
     width: 40%;
 }
 
@@ -64,7 +60,7 @@ button{
     color: white;
     padding: 10px 30px;
     border-radius: 5px;
-    font-weight: 400
+    font-weight: 400;
 }
 
 #white-left{
